@@ -15,7 +15,7 @@ url                      : https://sundar7d0.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sundar7d0/sundar7d0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sundar Raman P"
-  avatar           : "profile.png"
-  bio              : "Work on difficult problems & think about life | Texas Instruments | IIT Madras"
+  avatar           : "profile.jpg"
+  bio              : "Passion to work on difficult problems & to think about life | Texas Instruments | IIT Madras"
   location         : "Bangalore, India"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
