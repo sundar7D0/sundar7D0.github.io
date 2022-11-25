@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "HOME"
+name                     : &name "Home Page"
 description              : &description "Passion to work on difficult problems & to think about life"
 url                      : https://sundar7d0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
