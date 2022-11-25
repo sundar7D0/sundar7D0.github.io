@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "SUNDAR RAMAN P"
 title_separator          : "-"
-name                     : "Home Page"
+name                     : "SUNDAR RAMAN P"
 description              : "Passion to work on difficult problems & to think about life"
 url                      : https://sundar7d0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
