@@ -1,7 +1,7 @@
 ---
 title: "Generating Drug-like Molecules from Gene Expression Signatures using Transformers"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/drug-discovery-using-transformers
 excerpt: 'Generating small drugs'
 date: 2020-12-01
 venue: 'Journal 12'
