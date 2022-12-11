@@ -6,9 +6,8 @@ excerpt: 'Designed a modified transformer architecture to generate many drug-lik
 date: 2022-07-10
 venue: 'Intelligent Systems for Molecular Biology (ISMB) - 2022'
 paperurl: 'https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751'
-citation: 'Sundar Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sundar Raman P, Prashant G. (2022). &quot;Generating Drug-like Molecules from Gene Expression Signatures using Transformers 1.&quot; <i>ISMB'22</i>. 1(1).'
 ---
 
-[Download paper here](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing)
+[Download full-paper here](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing)
 
-Recommended citation: Sundar Raman P, Prashant G. (2022). "Generating Drug-like Molecules from Gene Expression Signatures using Transformers" <i>ISMB'22. 1(1).
