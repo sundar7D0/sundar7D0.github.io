@@ -6,7 +6,7 @@ excerpt: 'Designed a modified transformer architecture to generate many drug-lik
 date: 2022-07-10
 venue: 'Intelligent Systems for Molecular Biology (ISMB) - 2022'
 paperurl: 'https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751'
-citation: 'Sundar Raman P, Prashant G. (2022). <i>ISMB'22</i>.'
+citation: 'Sundar Raman P, Prashant G. <i>ISMB-2022</i>.'
 ---
 
 [Full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing)
