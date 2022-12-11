@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Synapse, Systolic CNN Accelerator’s Mapper-Simulator Environment"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/synapse-mapper-simulator-for-inference-accelerator
+excerpt: 'Designed a python compiler that schedules instructions given network, architecture configuration and an event-driven, analytical,
+data-flow accurate simulator for [ShaktiMAAN](https://github.com/iitm-sysdl/SHAKTIMAAN), an open-source systolic inference accelerator effort at [RISE](https://shakti.org.in/) lab. This infrastructure helped address challenges in hardware verification, bottleneck analysis, design-space trade-offs & compiler optimization for our accelerator. Further, Deep Reinforcement Learning agents (using PPO optimization algorithm) were used along with mapper-simulator to evaluate & explore the design space (tunable hardware/software knobs) of our hardware to map DL networks ∼10% more efficiently than existing heuristics on our hardware.'
+date: 2021-06-10
+venue: 'IIT Madras Undergraduate Research Thesis presentation forum'
+paperurl: 'https://drive.google.com/file/d/1PMTwZhSbaysdSdLks98JykyDDe_itRQa/view?usp=sharing'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Slides](https://drive.google.com/file/d/1NnDDXgM6h1zbRrv5gJUAIdI9pAYBtN9T/view?usp=sharing)
+[Code](https://github.com/sundar7D0/Synapse)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
