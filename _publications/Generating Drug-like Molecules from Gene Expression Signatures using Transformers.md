@@ -2,8 +2,8 @@
 title: "Generating Drug-like Molecules from Gene Expression Signatures using Transformers"
 collection: publications
 permalink: /publication/drug-discovery-using-transformers
-excerpt: "Designed a modified **transformer** architecture to generate many **drug-like molecules** that can induce a desired transcriptomic profile based on **gene-expression** signatures. Outperformed then state-of-the-art 2-staged GAN model by ∼40% in validity, uniqueness, ∼30% in synthesizability, ∼10% in similarity metrics of generated molecules.'
-venue: 'Intelligent Systems for Molecular Biology (ISMB) - 2022 by Sundar Raman P, Prashant G'
+excerpt: "Designed a modified **transformer** architecture to generate many **drug-like molecules** that can induce a desired transcriptomic profile based on **gene-expression** signatures. Outperformed then state-of-the-art 2-staged GAN model by ∼40% in validity, uniqueness, ∼30% in synthesizability, ∼10% in similarity metrics of generated molecules."
+venue: "Intelligent Systems for Molecular Biology (ISMB) - 2022 by Sundar Raman P, Prashant G"
 paperurl: 'https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751'
 ---
 
