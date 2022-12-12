@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: awards
     values:
-      layout: award
+      layout: awards
       author_profile: true
       share: true
 
