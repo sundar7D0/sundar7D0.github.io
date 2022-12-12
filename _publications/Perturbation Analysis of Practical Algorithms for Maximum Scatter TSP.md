@@ -21,11 +21,12 @@ The six algorithms that we describe in this work are:
 
 Our benchmarking experiments can be broadly split into three categories:
 
-1. Closeness of algorithm predictions to the scatter bound
-2. Deviation of maximum scatter predictions under perturbation
-3. Variation in the runtime of algorithms
+* Closeness of algorithm predictions to the scatter bound
+* Deviation of maximum scatter predictions under perturbation
+* Variation in the runtime of algorithms
 
-Key Contributions:
+## Key Contributions:
+
 1. We observe that the Naive Greedy algorithm is very fast and easy-to-implement baseline for MSTSP.
 2. We present the Naive Weave and Hoffmann Weave algorithms which introduce an improved formulation of the work by Arkin and Hoffmann to extend their usability to non-regular grids.
 3. We introduce Pure 2-opt and Randomised 2-opt as very close approximation algorithms for the MSTSP.
