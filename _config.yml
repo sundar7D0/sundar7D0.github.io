@@ -85,7 +85,7 @@ author:
   bio              : "Passionate to work on difficult problems & to think about life | Texas Instruments | IIT Madras"
   location         : "Bangalore, India"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7LyKVboAAAAJ&hl=en"
   email            :  "sundarramanp2000@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
