@@ -27,3 +27,22 @@ Top 20 among 6100+ teams (500 startups) for developing an indigenous flight-cont
 Awarded to top 100 graduates of India to promote academic, leadership excellence & innovation by the [OPJindal group](https://www.opjems.com/about_opj_grp.html).
 <img src='/images/OPJEMS Scholarship Certificate.jpg' align="center" width="500" height="300" style="vertical-align:left;margin:0px 30px"> 
 
+
+## National Youth Delegate at Commonwealth Youth Senior Officials Meet, Brunei
+
+One among two delegates to represent India; Analyzed key regional youth issues & agreed upon a set of action plans
+
+## Gold & Silver Medal at Inter-IIT Tech Meet, Roorkee’19 & Mumbai’18, India
+
+Designed solutions for television audience measurement & a smart-bin prototype to demarcate waste into 4 categories
+
+
+## Department topper at end of two years at IIT Madras
+Received the top grade (S) in all Honours, minor courses.
+
+
+## Yuva Pratibha Academic Award by TATA motors,
+
+Topped my state in the grade XII CBSE national exam & RMO (Math), NSEP (Physics), NSEA (Astro) olympiads
+
+
