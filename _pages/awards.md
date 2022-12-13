@@ -8,8 +8,8 @@ author_profile: true
 ## National Runner-up, International James Dyson Award - 2020
 
 For designing Cube, an assistive device for visually impaired to help them learn, type, read in braille & navigate easily.
-<img src='/images/James Dyson Award Chennai Times.PNG' align="left" width="400" height="400" style="vertical-align:left;margin:0px 30px"> 
-<img src='/images/James Dyson Award Hindu.jpeg' align="right" width="400" height="400" style="vertical-align:left;margin:0px 30px">
+<img src='/images/James Dyson Award Chennai Times.PNG' align="left" width="500" height="400" style="vertical-align:left;margin:0px 30px"> 
+<img src='/images/James Dyson Award Hindu.jpeg' align="right" width="500" height="400" style="vertical-align:left;margin:0px 30px">
 
 ## OPJEMS Leadership Award, Delhi, India - 2019
 
