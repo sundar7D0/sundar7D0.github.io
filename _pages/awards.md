@@ -1,17 +1,23 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards & Achievements"
 permalink: /awards/
 author_profile: true
 ---
-* Chinese Outstanding Student Abroad Award, 2021
-* Honorable Mention for Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2019
-* Honorable Mention in Student Poster Competition in MICDE symposium, 2019
-* SIAM Student Travel Grant, SIAM, 2018
-* MICDE Fellowship, University of Michigan, Ann Arbor, 2018-2020
-* Doctoral Fellowship, University of Michigan, Ann Arbor, 2016
-* Rackham Summer Award, University of Michigan, Ann Arbor, 2015
-* Outstanding Undergraduate Thesis Winner in Fluid Mechanics, 2013
-* Outstanding Student of Beihang University, 2012
-* First-class Prize in Mathematics Contest of Beihang University, 2012
-* Singapore Technologies Engineering Fellow, 2010-2013
+
+## National Runner-up, International James Dyson Award - 2020
+
+For designing Cube, an assistive device for visually impaired to help them learn, type, read in braille & navigate easily.
+<img src='/images/James Dyson Award Chennai Times.PNG' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
+<img src='/images/James Dyson Award Hindu.jpeg' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px">
+
+## OPJEMS Leadership Award, Delhi, India - 2019
+
+Awarded to top 100 graduates of India to promote academic, leadership excellence & innovation by the OPJindal group
+<img src='/images/OPJEMS Scholarship Certificate.pdf' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
+
+## Semifinalist, Swadeshi Microprocessor challenge, Ministry of Electronics & IT,
+
+Top 20 among 6100+ teams (500 startups) for developing an indigenous flight-controller based on DGCA-standards
+
+<img src='/images/Swadeshi Microprocessor Challenge Certificate.png' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
