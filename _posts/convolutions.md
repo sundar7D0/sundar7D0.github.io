@@ -1,0 +1,11 @@
+---
+title: 'Different implementations of the ubiquitous convolution'
+date: 2022-11-23
+permalink: /posts/convolutions
+tags:
+  - Machine Learning
+  - Convolutions
+  - Reinforcement Learning
+---
+
+Throughout the Deep Learning (DL) field, _nn.Conv2d_ is being used left-right-center for building efficient convolution layers in PyTorch without worrying much about how they are implemented under the hood. In this [post](https://medium.com/@sundarramanp2000/different-implementations-of-the-ubiquitous-convolution-6a9269dbe77f), we will specifically gain some insights into different convolution implementations like a naive nested for-loop, Im2Col, Winograd, Strassen and FFT algorithms and infer their pros & cons based on latencies incurred on a N1 CPU and a T4 GPU. We will also relate Strassen’s algorithm to DeepMind’s recent computing breakthrough with [AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor).
