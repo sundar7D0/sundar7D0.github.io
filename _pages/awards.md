@@ -12,7 +12,8 @@ For designing [Cube](https://www.jamesdysonaward.org/en-IN/2020/project/cube/), 
 <img src='/images/James Dyson Award Hindu.jpeg' align="right" width="480" height="400" style="vertical-align:right;margin:0px 0px">
 
  
- ## OPJEMS Leadership Award, Delhi, India - 2019
+
+## OPJEMS Leadership Award, Delhi, India - 2019
 
 Awarded to top 100 graduates of India to promote academic, leadership excellence & innovation by the [OPJindal group](https://www.opjems.com/about_opj_grp.html).
 <img src='/images/OPJEMS Scholarship Certificate.jpg' align="center" width="500" height="300" style="vertical-align:left;margin:0px 30px"> 
