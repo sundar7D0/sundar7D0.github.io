@@ -34,7 +34,7 @@ One among two delegates to represent India at the bi-annual Commonwealth meet. A
 
 ## Gold & Silver Medal at Inter-IIT Tech Meet, Roorkee’19 & Mumbai’18
 
-Designed solutions for television audience measurement & a smart-bin prototype to demarcate waste into 4 categories: paper, composite, plastic & wet-waste. Find [Slides](https://drive.google.com/drive/folders/1dT3ZZ_8g_MOizgmEKLXDApM6tMJDBB5u?usp=sharing), [Video](https://drive.google.com/file/d/1eWksJXGUBuACYEtR6RTmr3X5HRkNl-WT/view?usp=sharing), [Code](https://github.com/sundar7D0/smart-bin).
+Designed solutions for television audience measurement & a smart-bin prototype to demarcate waste into 4 categories: paper, composite, plastic & wet-waste. Find [Slides](https://drive.google.com/drive/folders/1dT3ZZ_8g_MOizgmEKLXDApM6tMJDBB5u?usp=sharing), [Video](https://drive.google.com/file/d/1eWksJXGUBuACYEtR6RTmr3X5HRkNl-WT/view?usp=sharing), [Code](https://github.com/sundar7D0/smart-bin).\
 <img src='/images/InterIIT_Roorkee.PNG' align="center" width="500" height="300" style="vertical-align:left;margin:0px 30px">
 
 ## Department topper at the end of two out of four years during Bachelor's at IIT Madras
