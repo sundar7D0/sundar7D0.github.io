@@ -11,7 +11,7 @@ paperurl: 'https://drive.google.com/file/d/1PMTwZhSbaysdSdLks98JykyDDe_itRQa/vie
 ---
 
 
-Systolic arrays are one of the most popular compute substrates within DL accelerators today, as they provide extremely high efficiency for running dense matrix multiplications by re-using operands through local data shifts. One such work is [ShaktiMAAN](https://github.com/iitm-sysdl/SHAKTIMAAN), an open-source DNN accelerator for inference on edge devices based on systolic arrays. The complexity of this accelerator poses a variety of challenges in:
+Systolic arrays are one of the most popular compute substrates within DL accelerators today, as they provide extremely high efficiency for running dense matrix multiplications by re-using operands through local data shifts. One such effort by [RISE lab](https://shakti.org.in/) at IIT Madras is [ShaktiMAAN](https://github.com/iitm-sysdl/SHAKTIMAAN), an open-source DNN accelerator for inference on edge devices based on systolic arrays. The complexity of this accelerator poses a variety of challenges in:
 1. Hardware verification
 2. Bottleneck analysis using performance modelling
 3. Design space trade-offs
