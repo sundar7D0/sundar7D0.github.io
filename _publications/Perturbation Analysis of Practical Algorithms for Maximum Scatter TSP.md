@@ -30,6 +30,6 @@ Our benchmarking experiments can be broadly split into three categories:
 1. We observe that the Naive Greedy algorithm is very fast and easy-to-implement baseline for MSTSP.
 2. We present the Naive Weave and Hoffmann Weave algorithms which introduce an improved formulation of the work by Arkin and Hoffmann to extend their usability to non-regular grids.
 3. We introduce Pure 2-opt and Randomised 2-opt as very close approximation algorithms for the MSTSP.
-4. We use a real-world dataset augmented using five graph perturbations and evaluated with three edge cost metrics to perform a comprehensive perturbation analysis of the algorithms and compare results on three critical performance measures, namely, the quality, runtime and stability of the algorithms.
+4. We used a real-world dataset augmented using five graph perturbations and evaluated with three edge cost metrics to perform a comprehensive perturbation analysis of the algorithms and compare results on three critical performance measures, namely, the quality, runtime and stability of the algorithms.
 
-Find [code](https://github.com/sundar7D0/maximum-scatter-TSP).
+Find [paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977042.13), [code](https://github.com/sundar7D0/maximum-scatter-TSP).
