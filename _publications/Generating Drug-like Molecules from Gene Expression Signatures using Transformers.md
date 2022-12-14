@@ -19,4 +19,4 @@ The chemical space of drug-discovery is very large and discrete. Screening throu
  
 Altogether, our method can not only help in accelerating the early stage of drug discovery but can also aid in drug repurposing. 
 
-Find [full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing), [poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751)
+Find [full-paper](https://drive.google.com/file/d/1vX8XD287tBKwLgkcCn0zyrv7pLX4lqhA/view?usp=sharing), [poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751), [code][https://github.com/sundar7D0/transformers-for-drug-discovery].
