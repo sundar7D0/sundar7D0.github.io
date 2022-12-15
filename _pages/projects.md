@@ -21,7 +21,7 @@ author_profile: true
 <img src='/images/Smart_bin_prototype.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 ## Accelerating bouncing balls using CUDA DSL
-* **1.5× speed-up** of a 2D balls-collision game by splitting the rendering into multiple windows, each of which is handled by a CUDA thread.
+* **1.5× speed-up** of a **2D balls-collision game** by splitting the rendering into multiple windows, each of which is handled by a CUDA thread.
 * Used **OpenGL** for graphics.
 * Utilized pinned memory, texture buffer, read/write coalescing, ternary operator to reduce thread divergence, stream kernels, **atomically updated list for ball-states**, cache-efficient nested for-loop, nvprof profiler. Play the [game](https://covidchaos.github.io/), find [code](https://github.com/sundar7D0/covid-chaos).
 
