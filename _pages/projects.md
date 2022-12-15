@@ -4,6 +4,7 @@ title: "Technical Projects"
 permalink: /projects/
 author_profile: true
 ---
+This page portrays projects done at Center for Innovation ([CFI](https://cfi.iitm.ac.in/)) for fun, real-world challenges using off-the-shelf hardware and software components. Refer [LinkedIn](https://www.linkedin.com/in/sundar2000) for info. about my professional experiences.
 
 ## Cube, an assistive device for the visually-impaired
 * [Cube](https://www.jamesdysonaward.org/en-IN/2020/project/cube/) is a **seamless assistive device for the blind** to help them learn, type, read in braille & navigate easily. 
