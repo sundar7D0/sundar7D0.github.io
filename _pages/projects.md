@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Cube, an assistive device for the visually-impaired
-*[Cube](https://www.jamesdysonaward.org/en-IN/2020/project/cube/) is a **seamless assistive device for the blind** to help learn, type, read in braille & navigate easily. 
+* [Cube](https://www.jamesdysonaward.org/en-IN/2020/project/cube/) is a **seamless assistive device for the blind** to help learn, type, read in braille & navigate easily. 
 * Arrived at this solution after having pretotyped **several experiments**, making many agile working prototypes and testing them with with blind from NGOs.
 * Selected as an **incubatee** by [Nirmaan](https://nirmaan.iitm.ac.in/), a pre-incubation cell at IITM, where we attended workshops by silicon valley VCs, analyzed product-market fit & received ∼$5000 to develop the initial prototype. Find [video](https://youtu.be/LKwTY97eouc), [media](https://drive.google.com/drive/folders/1HBeBY-nXRQ0f0Sl53vqzE_TpwBGjkS2y?usp=sharing), [field-test](https://drive.google.com/file/d/1F0XEBxL4sAShRLck5TZ5tbYVnmEnXO4o/view?usp=sharing).
 
