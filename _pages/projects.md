@@ -14,7 +14,7 @@ author_profile: true
  
 ## Smart-bin
 * Designed a smart waste-segregator bin to categorize waste into 4 types: paper, composite, plastic & wet-waste, to tackle the **waste-segregation problem** at the very root.
-* Trained **DL models** to demarcate waste with ∼95% accuracy. 
+* Trained **DL models** to demarcate waste with **∼95%** accuracy. 
 * Implemented the **electronics-subsystem** with servos to control bin lids, RFID scanners to scan IDs, BeagleBone AI board to run DL models at edge, LCD to display bin no., SMPS for power management.
 * Field tested at Campus Cafe, IITM. Find [slides](https://drive.google.com/drive/folders/1dT3ZZ_8g_MOizgmEKLXDApM6tMJDBB5u?usp=sharing), [video](https://drive.google.com/file/d/1eWksJXGUBuACYEtR6RTmr3X5HRkNl-WT/view?usp=sharing), [code](https://github.com/sundar7D0/smart-bin).
 
