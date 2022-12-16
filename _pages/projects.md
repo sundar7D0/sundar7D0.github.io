@@ -54,7 +54,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 <img src='/images/atbert.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 ## Cloud Beacon: IoT for seamless local broadcast
-* To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](/images/EE03_CLOUD BEACON.pdf).
+* To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](/images/EE03_CLOUD_BEACON.pdf).
 * Use-cases include museums, malls, etc. where information about nearby **artifacts** can be displayed on phone without the user connecting to the open network.
 
 <img src='/images/cloud_beacon_poster.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
