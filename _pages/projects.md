@@ -33,7 +33,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 
 <img src='/images/butterfly_acm.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
-## Sulabh: A gateway for accessibility.
+## Sulabh: A gateway for accessibility
 * To make websites truly accessible, we proposed Sulabh, a web app that asks users to choose the kind of assistance/feature (instead of choosing disability) category they would aspire, a few of which are given below:
 1. **Voice Assistance**: Screen structure & screen reader, voice recognition & commands, navigation cues, prioritizes errors!
 2. **Gesture Based Assistance**: Eye and facial movement tracker for cursor movement and keyboard control;
