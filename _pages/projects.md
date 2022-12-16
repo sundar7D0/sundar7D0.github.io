@@ -9,7 +9,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 ## Cube, an assistive device for the visually-impaired
 * [Cube](https://www.jamesdysonaward.org/en-IN/2020/project/cube/) is a **seamless assistive device for the blind** to help them learn, type, read in braille & navigate easily. 
 * Arrived at this solution after having pretotyped **several experiments**, making many agile working prototypes and testing them with blind from NGOs.
-* Selected as an **incubatee** by [Nirmaan](https://nirmaan.iitm.ac.in/), a pre-incubation cell at IITM, where we attended workshops by silicon valley VCs, analyzed product-market fit & received ∼$5000 to develop the initial prototype. Find [video](https://youtu.be/LKwTY97eouc), [media](https://drive.google.com/drive/folders/1HBeBY-nXRQ0f0Sl53vqzE_TpwBGjkS2y?usp=sharing), [field-test](https://drive.google.com/file/d/1F0XEBxL4sAShRLck5TZ5tbYVnmEnXO4o/view?usp=sharing).
+* Selected as an **incubatee** by [Nirmaan](https://nirmaan.iitm.ac.in/), a pre-incubation cell at IITM, where we attended workshops by silicon valley VCs, analyzed product-market fit & received ∼$5000 to develop the initial prototype. Find [video](https://youtu.be/LKwTY97eouc), [media](https://drive.google.com/drive/folders/1HBeBY-nXRQ0f0Sl53vqzE_TpwBGjkS2y?usp=sharing), [field-test](https://drive.google.com/file/d/1F0XEBxL4sAShRLck5TZ5tbYVnmEnXO4o/view?usp=sharing), [articles](https://medium.com/@nirmaan_iitm/blink-a-deep-tech-startup-working-on-a-portable-text-to-braille-interactive-device-at-nirmaan-67a7c4cd7646).
 
 <img src='/images/blink_prototype.jpeg' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
  
@@ -27,3 +27,15 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 * Utilized pinned memory, texture buffer, read/write coalescing, ternary operator to reduce thread divergence, stream kernels, **atomically updated list for ball-states**, cache-efficient nested for-loop, nvprof profiler. Play the [game](https://covidchaos.github.io/), find [code](https://github.com/sundar7D0/covid-chaos).
 
 <img src='/images/Ball Bounce.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+
+## Automatic Cooking Machine (in collaboration with [Butterfly](https://www.butterflyindia.com/))
+* Worked on revamping/improvising the application, mechanical, electronics, electrical stack of AutoChef-v1.0 developed by Butterfly to design AutoChef-v2.0. Exact details are confidential. Find [certificate](./images/Autochef_Certificate.pdf).
+
+<img src='/images/butterfly_acm.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+
+## Sulabh: A gateway for accessibility.
+* Finalists in Smart India Hackathon - 2020
+* Find [slides](https://drive.google.com/file/d/1_WXYELWDVeiwf3lYjPxyJHQ-5P73Zk9b/view?usp=sharing), [flow-chart](https://docs.google.com/presentation/d/1g30mrwJuWM8Azmi5lHu2ObM2WvNzK6pTISDG4bERhPs/edit?usp=sharing), 
+
+
+
