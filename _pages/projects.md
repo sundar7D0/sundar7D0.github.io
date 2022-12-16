@@ -34,8 +34,17 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 <img src='/images/butterfly_acm.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 ## Sulabh: A gateway for accessibility.
-* Finalists in Smart India Hackathon - 2020
-* Find [slides](https://drive.google.com/file/d/1_WXYELWDVeiwf3lYjPxyJHQ-5P73Zk9b/view?usp=sharing), [flow-chart](https://docs.google.com/presentation/d/1g30mrwJuWM8Azmi5lHu2ObM2WvNzK6pTISDG4bERhPs/edit?usp=sharing), 
+* To make websites truly accessible, we proposed Sulabh, a web app that asks users to choose the kind of assistance/feature (instead of choosing disability) category they would aspire, a few of which are given below:
+1. **Voice Assistance**: Screen structure & screen reader, voice recognition & commands, navigation cues, prioritizes errors!
+2. **Gesture Based Assistance**: Eye and facial movement tracker for cursor movement and keyboard control;
+3. **Image/Video Captions**, Automatic site maps & Hyperlinks briefing assistance;
+4. **Appearance Settings**: Brightness, font, font & button size, line & paragraph spacing, color scheme & contrast control;
+5. Feature for even more “Easy Access & Understanding”: Search, spelling & meaning assistant, keyboard shortcuts for thumbnails and bookmarks, block popups, highlighting keywords, **refreshable braille display support** for the blind-deaf, etc.
+*  This work was appreciated by the **Ministry of Rural Development, Government of India** and reached the finals of **Smart India Hackathon - 2020**.
+* Find [slides](https://drive.google.com/file/d/1_WXYELWDVeiwf3lYjPxyJHQ-5P73Zk9b/view?usp=sharing), [flow-chart](https://docs.google.com/presentation/d/1g30mrwJuWM8Azmi5lHu2ObM2WvNzK6pTISDG4bERhPs/edit?usp=sharing).
+
+<img src='/images/sulabh_app.jpg' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+
 
 
 
