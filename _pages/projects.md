@@ -29,7 +29,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 <img src='/images/Ball Bounce.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 ## Automatic Cooking Machine (in collaboration with [Butterfly](https://www.butterflyindia.com/))
-* Worked on revamping/improvising the application, mechanical, electronics, electrical stack of AutoChef-v1.0 developed by Butterfly to design AutoChef-v2.0. Exact details are confidential. Find [certificate](./images/Autochef_Certificate.pdf).
+* Worked on revamping/improvising the application, mechanical, electronics, electrical stack of AutoChef-v1.0 developed by Butterfly to design AutoChef-v2.0. Exact details are confidential. Find [certificate](/images/Autochef_Certificate.pdf).
 
 <img src='/images/butterfly_acm.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
@@ -54,7 +54,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 <img src='/images/atbert.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 ## Cloud Beacon: IoT for seamless local broadcast
-* To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](./images/EE03_CLOUD BEACON.pdf).
+* To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](/images/EE03_CLOUD BEACON.pdf).
 * Use-cases include museums, malls, etc. where information about nearby **artifacts** can be displayed on phone without the user connecting to the open network.
 
 <img src='/images/cloud_beacon_poster.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
