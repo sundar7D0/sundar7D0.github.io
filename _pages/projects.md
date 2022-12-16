@@ -46,5 +46,15 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 <img src='/images/sulabh_app.jpg' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
 
+## ATBERT: Multi-modal music classifier
+* Since music can be classified based on genre, beats, themes, etc. and it is difficult to obtain huge labelled data, a **self-supervised** (to learn music representation with limited labelled data) **multi-modal** (multiple inputs from similar distributions is similar to more data) **transformer** (to tackle long range sequence dependence; parallelizable, reduced computations) will be **efficient**.
+* **Correct Pair Prediction (CPP)** is used to help model learn **cross-modal** dynamics. Model tries to predict whether a pair of audio-text embeddings corresponds to the same music or different. One **binary classifier** which takes in audio-text summary embedding and a random-time multi-modal encoder output are passed through an external 2 layer, non-linear head to classify.
+* **Info-Noise-Contrastive-Estimation (InfoNCE)** loss is also used where a **audio-text pair** is classified into positive/negative class where negative classes are sampled from a mini-batch based on a **novel CANS-Similar** (L2 norm based) method. Find [code](https://github.com/sundar7D0/ATBERT).
 
+<img src='/images/atbert.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
 
+## Cloud Beacon: IoT for seamless local broadcast
+* To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](./images/EE03_CLOUD BEACON.pdf).
+* Use-cases include museums, malls, etc. where information about nearby **artifacts** can be displayed on phone without the user connecting to the open network.
+
+<img src='/images/cloud_beacon_poster.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
