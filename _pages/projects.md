@@ -11,7 +11,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 * Arrived at this solution after having pretotyped **several experiments**, making many agile working prototypes and testing them with blind from NGOs.
 * Selected as an **incubatee** by [Nirmaan](https://nirmaan.iitm.ac.in/), a pre-incubation cell at IITM, where we attended workshops by silicon valley VCs, analyzed product-market fit & received ∼$5000 to develop the initial prototype. Find [video](https://youtu.be/LKwTY97eouc), [media](https://drive.google.com/drive/folders/1HBeBY-nXRQ0f0Sl53vqzE_TpwBGjkS2y?usp=sharing), [field-test](https://drive.google.com/file/d/1F0XEBxL4sAShRLck5TZ5tbYVnmEnXO4o/view?usp=sharing), [article](https://medium.com/@nirmaan_iitm/blink-a-deep-tech-startup-working-on-a-portable-text-to-braille-interactive-device-at-nirmaan-67a7c4cd7646).
 
-<img src='/images/blink_prototype.jpeg' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+<img src='/images/blink_prototype.jpeg' align="center" width="280" height="150" style="vertical-align:right;margin:0px 30px">
  
 ## Smart-bin
 * Designed a smart waste-segregator bin to categorize waste into 4 types: paper, composite, plastic & wet-waste, to tackle the **waste-segregation problem** at the very root.
