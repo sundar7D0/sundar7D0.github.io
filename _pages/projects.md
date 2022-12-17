@@ -31,7 +31,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 ## Automatic Cooking Machine (in collaboration with [Butterfly](https://www.butterflyindia.com/))
 * Worked on revamping/improvising the application, mechanical, electronics, electrical stack of AutoChef-v1.0 developed by Butterfly to design **AutoChef-v2.0**. Exact details are **confidential**. Find [certificate](/images/Autochef_Certificate.pdf).
 
-<img src='/images/butterfly_acm.PNG' align="center" width="480" height="150" style="vertical-align:right;margin:0px 30px">
+<img src='/images/butterfly_acm.PNG' align="center" width="480" height="50" style="vertical-align:right;margin:0px 30px">
 
 ## Sulabh: A gateway for accessibility
 * To make websites truly accessible, we proposed Sulabh, a web app that asks users to choose the kind of assistance/feature (instead of choosing disability) category they would aspire, a few of which are given below:
