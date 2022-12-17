@@ -31,7 +31,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 ## Automatic Cooking Machine (in collaboration with [Butterfly](https://www.butterflyindia.com/))
 * Worked on revamping/improvising the application, mechanical, electronics, electrical stack of AutoChef-v1.0 developed by Butterfly to design **AutoChef-v2.0**. Exact details are **confidential**. Find [certificate](/images/Autochef_Certificate.pdf).
 
-<img src='/images/butterfly_acm.PNG' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+<img src='/images/butterfly_acm.PNG' align="center" width="480" height="150" style="vertical-align:right;margin:0px 30px">
 
 ## Sulabh: A gateway for accessibility
 * To make websites truly accessible, we proposed Sulabh, a web app that asks users to choose the kind of assistance/feature (instead of choosing disability) category they would aspire, a few of which are given below:
@@ -51,7 +51,7 @@ This page portrays projects done at Center for Innovation ([CFI](https://cfi.iit
 * **Correct Pair Prediction (CPP)** is used to help model learn **cross-modal** dynamics. Model tries to predict whether a pair of audio-text embeddings corresponds to the same music or different. One **binary classifier** which takes in audio-text summary embedding and a random-time multi-modal encoder output are passed through an external 2 layer, non-linear head to classify.
 * **Info-Noise-Contrastive-Estimation (InfoNCE)** loss is also used where a **audio-text pair** is classified into positive/negative class where negative classes are sampled from a mini-batch based on a **novel CANS-Similar** (L2 norm based) method. Find [code](https://github.com/sundar7D0/ATBERT).
 
-<img src='/images/atbert.png' align="center" width="480" height="300" style="vertical-align:right;margin:0px 30px">
+<img src='/images/atbert.png' align="center" width="580" height="400" style="vertical-align:right;margin:0px 30px">
 
 ## Cloud Beacon: IoT for seamless local broadcast
 * To share data anywhere, to anyone **within proximity** without actually having to connecting to the network (to **avoid security issues**). Find [concept doc](/images/EE03_CLOUD_BEACON.pdf).
